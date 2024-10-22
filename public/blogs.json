@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "cover": "https://i.ibb.co.com/JRJ6pj8/1.jpg",
+      "title": "The Future of AI",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co.com/pZJWLb1/boy1.png",
+      "posted_date": "2024-10-01",
+      "reading_time": 5,
+      "hashtags": ["AI", "Technology", "Innovation"]
+    },
+    {
+      "id": "002",
+      "cover": "https://i.ibb.co.com/JRJ6pj8/1.jpg",
+      "title": "Sustainable Living: A Guide",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co.com/pZJWLb1/boy1.png",
+      "posted_date": "2024-09-25",
+      "reading_time": 8,
+      "hashtags": ["Sustainability", "EcoFriendly", "Lifestyle"]
+    },
+    {
+      "id": "003",
+      "cover": "https://i.ibb.co.com/JRJ6pj8/1.jpg",
+      "title": "Exploring Quantum Computing",
+      "author": "Michael Lee",
+      "author_img": "https://i.ibb.co.com/pZJWLb1/boy1.png",
+      "posted_date": "2024-09-15",
+      "reading_time": 7,
+      "hashtags": ["QuantumComputing", "Science", "Technology"]
+    },
+    {
+      "id": "004",
+      "cover": "https://i.ibb.co.com/JRJ6pj8/1.jpg",
+      "title": "The Art of Minimalism",
+      "author": "Sophia Green",
+      "author_img": "https://i.ibb.co.com/pZJWLb1/boy1.png",
+      "posted_date": "2024-09-30",
+      "reading_time": 6,
+      "hashtags": ["Minimalism", "Design", "Lifestyle"]
+    },
+    {
+      "id": "005",
+      "cover": "https://i.ibb.co.com/JRJ6pj8/1.jpg",
+      "title": "A Beginner's Guide to Cryptocurrency",
+      "author": "David Brown",
+      "author_img": "https://i.ibb.co.com/pZJWLb1/boy1.png",
+      "posted_date": "2024-09-18",
+      "reading_time": 9,
+      "hashtags": ["Cryptocurrency", "Finance", "Blockchain"]
+    }
+  ]
+  
